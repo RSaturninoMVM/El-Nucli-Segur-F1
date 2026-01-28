@@ -6,8 +6,6 @@ class Vehicle:
 
     # TASCA: Fes el Getter per llegir els kms (ja que és privat)
     def llegir_kms(self):
-        print("Calculando los kilometros")
-        return self.__kms
         pass
 
     # TASCA: Fes el Setter amb seguretat anti-frau
